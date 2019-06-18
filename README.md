@@ -1,21 +1,21 @@
-Introduction and Setup
+[1] Introduction and Setup
 
-Language Features
+[2] Language Features
 
-Operators
+[3] Operators
 
-Functions and Scope
+[4] Functions and Scope
 
-Objects and Arrays
+[5] Objects and Arrays
 
-Classes and Modules
+[6] Classes and Modules
 
-Programming the BOM and DOM
+[7] Programming the BOM and DOM
 
-Promises and Error Handling
+[8] Promises and Error Handling
 
-Data Access Using HTTP
+[9] Data Access Using HTTP
 
-Forms
+[10] Forms
 
-Security and Building for Production
+[11] Security and Building for Production
