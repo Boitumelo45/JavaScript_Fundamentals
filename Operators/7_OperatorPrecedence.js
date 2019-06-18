@@ -8,5 +8,5 @@
   Logical AND
           OR
 
-developer operator precedence : Mozzilla developers          
+developer operator precedence : Mozzilla developers
 */
